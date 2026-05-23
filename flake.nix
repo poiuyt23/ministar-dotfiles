@@ -75,7 +75,6 @@
 				"firefox"
 				"fleet"
 				"fontbase"
-				"ghostty"
 				"gimp"
 				"git-it"
 				"github"
@@ -83,6 +82,7 @@
 				"iina"
 				"kitty"
 				"libreoffice"
+				"mullvad-browser"
 				"multitouch"
 				"onyx"
 				"orion"
@@ -99,7 +99,6 @@
 				"zenmap"
 			];
 			masApps = {
-				"Bitdefender Virus Scanner" = 500154009;
 				"Brotato:Premium" = 1668755109;
 				"Developer" = 640199958;
 				"Diagrams" = 1276248849; 		
